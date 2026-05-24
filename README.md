@@ -4,6 +4,9 @@
 点击这里查看：  
 [词汇List1-4复习](./25-26T2/CEIV-review-week3.html)  
 [词汇List5-8复习](./25-26T2/CEIV-review-week6.html)  
+[词汇List9-12复习](./25-26T2/CEIV-review-week10.html)  
+[词汇List13-16复习](./25-26T2/CEIV-review-week12.html)  
+[词汇List17-18复习](./25-26T2/CEIV-review-week14.html)
 
 <br>
 <br>
