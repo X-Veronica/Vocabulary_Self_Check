@@ -23,7 +23,9 @@
 
 
 [第10-12周词汇复习](./25-26T2/CEII-review-week12.html)  
-[第13-15周词汇复习](./25-26T2/CEII-review-week14.html)
+[第13-15周词汇复习](./25-26T2/CEII-review-week14.html)  
+
+[期末词汇复习]（./25-26T2/CEII-final-practice.html）
 <br>
 
 
