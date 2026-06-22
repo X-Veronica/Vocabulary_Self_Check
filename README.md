@@ -8,7 +8,9 @@
 
 [词汇List9-12复习](./25-26T2/CEIV-review-week10.html)  
 [词汇List13-16复习](./25-26T2/CEIV-review-week12.html)  
-[词汇List17-18复习](./25-26T2/CEIV-review-week14.html)
+[词汇List17-18复习](./25-26T2/CEIV-review-week14.html)  
+
+[期末词汇复习](./25-26T2/CEIV-final-practice.html)  
 
 <br>
 <br>
